@@ -1,0 +1,4 @@
+#Fri Dec 08 08:21:05 ICT 2017
+base.0=C\:\\Learning\\NHOM_2\\Android-Sensor-Light-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
